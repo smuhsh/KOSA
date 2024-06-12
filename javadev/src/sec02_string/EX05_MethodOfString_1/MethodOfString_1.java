@@ -59,7 +59,7 @@ public class MethodOfString_1 {
 		
 		//@getBtyes(): 문자열 → byte[] 변환
 		byte[] array1 = str8.getBytes();
-		byte[] array2 = str9.getBytes();
+		byte[] array2 = str9.getBytes(); //한글이 커서 UTF-8로 변환할때 byte로 바꾸어서 저장함
 		System.out.println(Arrays.toString(array1));
 		System.out.println(Arrays.toString(array2));
 		
