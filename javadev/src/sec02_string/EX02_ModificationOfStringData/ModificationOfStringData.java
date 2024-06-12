@@ -1,0 +1,37 @@
+package sec02_string.EX02_ModificationOfStringData;
+
+import java.util.Arrays;
+
+/*
+ * 작성일:2024-06-12
+ * 작성자:황석현
+ * 개요: 교재 p192 String 객체의 문자열 수정 및 다른 참조 자료형과의 비교
+ * 
+ * */
+public class ModificationOfStringData {
+
+	public static void main(String[] args) {
+		
+		//문자열 수정
+		String str1 = new String("안녕");
+		String str2 = str1;
+		
+		str1 = "안녕하세요";
+		
+		System.out.println(str1);
+		System.out.println(str2);
+		
+		//배열 참조 자료형
+		int[] array1 = new int[] {3,4,5};
+		int[] array2 = array1;
+		
+		array1[0] = 6;
+		array1[1] = 7;
+		array1[2] = 8;
+		
+		System.out.println(Arrays.toString(array1));
+		System.out.println(Arrays.toString(array2));
+
+	}
+
+}
