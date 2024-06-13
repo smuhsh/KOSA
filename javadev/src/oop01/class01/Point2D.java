@@ -10,8 +10,20 @@ public class Point2D {
 	private int x;
 	private int y;
 	
+	//기본생성자, 생성자의 역할은 멤버필드를 초기화
+	public Point2D() {
+		this(1,2); //this 로 생성자호출 오버로딩한것은 첫번째 줄에만 온다
+		System.out.println("Point2D() 수행 중");
+	}
+	
+	public Point2D(int x, int y) {
+		this.x = x;
+		this.y = y;
+		System.out.println("Point2D(x,y) 수행 중");
+	}
+
+
 	public int getX() {
-		
 		return x;
 	}
 	
@@ -27,5 +39,9 @@ public class Point2D {
 		this.y = y;
 	}
 	
+	public void print() {
+		System.out.println("x="+this.getX());
+		System.out.println("y="+this.getY());
+	}
 
 }
