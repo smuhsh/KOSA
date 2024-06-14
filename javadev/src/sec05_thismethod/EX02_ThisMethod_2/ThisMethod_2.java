@@ -17,6 +17,7 @@ public class ThisMethod_2 {
 		a2.print();
 		a3.print();
 		System.out.println();
+		//git staging test
 		
 		//3가지 객체 생성(this() 사용)
 		B b1 = new B();
