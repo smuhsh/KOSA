@@ -9,7 +9,7 @@ import java.util.HashMap;
  * 	Object 클래스의 hashCode() 메서드
  *  
  * */
-public class ObjectMethod_hashcode {
+public class ObjectMethod_hashcode extends Object{
 
 	public static void main(String[] args) {
 		HashMap<Integer, String> hm1 = new HashMap<>();
