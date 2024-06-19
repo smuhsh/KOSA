@@ -3,7 +3,8 @@ package oop09.interface01;
 public class TvUser {
 	public static void main(String[] args) {
 //		LgTv tv = new LgTv();
-		TV tv = new SamsungTv();
+//		TV tv = new SamsungTv();
+		TV tv = new AppleTv();
 		tv.turnOn();
 		tv.channelUp();
 		tv.channelDown();
