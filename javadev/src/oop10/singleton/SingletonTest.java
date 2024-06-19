@@ -1,5 +1,10 @@
 package oop10.singleton;
-
+/*
+ * 작성일:2024-06-19
+ * 작성자:황석현
+ * 개요: 싱글톤패턴
+ * 
+ * */
 public class SingletonTest {
 
 	public static void main(String[] args) {
