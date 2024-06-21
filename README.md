@@ -1,5 +1,6 @@
 # KOSA (한국소프트웨어 산업협회)
 
-(https://github.com/smuhsh/KOSA/assets/49484645/8f177bc7-66d9-4a7d-881d-25f892dee1b5)
+![시스원_채용연계형_브로슈어(182x257)0429수정6_(1)_page-0001](https://github.com/smuhsh/KOSA/assets/49484645/c5552382-4850-4e4e-97b1-fb381f737134)
+
 
 직무교육 학습내용
