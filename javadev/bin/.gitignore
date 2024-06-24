@@ -20,6 +20,7 @@
 /oop13/
 /oop15/
 /oop16/
+/oop19/
 /sec01_abstractclass/
 /sec01_accessmodifier/
 /sec01_array/
@@ -31,10 +32,12 @@
 /sec01_instanceinnerclass/
 /sec01_operator_1/
 /sec01_selectcontrolstatement/
+/sec01_theneedforgeneric/
 /sec01_theneedforthread/
 /sec01_typeofexception/
 /sec02_abstractmodifier/
 /sec02_exceptionhandlingsyntax/
+/sec02_genericclass/
 /sec02_instanceinnerclass/
 /sec02_interface/
 /sec02_loopcontrolstatement/
@@ -45,12 +48,14 @@
 /sec02_typecastin/
 /sec02_typecasting/
 /sec03_constructor/
+/sec03_genericmethod/
 /sec03_localinnerclass/
 /sec03_methodoverriding/
 /sec03_overlappedcontrolstatement/
 /sec03_threadproperties/
 /sec03_throwsexception/
 /sec04_anonymousclass/
+/sec04_boundedtype/
 /sec04_controlkeyword/
 /sec04_overlapmember/
 /sec04_synchronizedmethodandblock/
@@ -64,6 +69,6 @@
 /sec06_objectclass_EX02_ObjectMethod_equals/
 /sec06_objectclass_EX03_ObjectMethod_hashcode/
 /work/
-/oop19/
-/sec01_theneedforgeneric/
-/sec02_genericclass/
+/sec05_inheritanceofgeneric/
+/sec01_list/
+/sec02_set/
