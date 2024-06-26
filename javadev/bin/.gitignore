@@ -30,6 +30,8 @@
 /sec01_finalmodifier/
 /sec01_inheritancepolymorphism/
 /sec01_instanceinnerclass/
+/sec01_lambdaexpression/
+/sec01_list/
 /sec01_operator_1/
 /sec01_selectcontrolstatement/
 /sec01_theneedforgeneric/
@@ -43,6 +45,7 @@
 /sec02_loopcontrolstatement/
 /sec02_method/
 /sec02_primarydatatype/
+/sec02_set/
 /sec02_staticmodifier/
 /sec02_string/
 /sec02_typecastin/
@@ -50,6 +53,7 @@
 /sec03_constructor/
 /sec03_genericmethod/
 /sec03_localinnerclass/
+/sec03_map/
 /sec03_methodoverriding/
 /sec03_overlappedcontrolstatement/
 /sec03_threadproperties/
@@ -58,9 +62,11 @@
 /sec04_boundedtype/
 /sec04_controlkeyword/
 /sec04_overlapmember/
+/sec04_stackandqueue/
 /sec04_synchronizedmethodandblock/
 /sec04_thiskeyword/
 /sec04_userexception/
+/sec05_inheritanceofgeneric/
 /sec05_innerinterface/
 /sec05_superkeywordsupermethod/
 /sec05_thismethod/
@@ -69,6 +75,4 @@
 /sec06_objectclass_EX02_ObjectMethod_equals/
 /sec06_objectclass_EX03_ObjectMethod_hashcode/
 /work/
-/sec05_inheritanceofgeneric/
-/sec01_list/
-/sec02_set/
+/oop23/
