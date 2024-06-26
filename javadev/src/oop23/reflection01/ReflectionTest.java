@@ -2,7 +2,7 @@ package oop23.reflection01;
 /*
  * 작성일:2024-06-26
  * 작성자:황석현
- * 개요: 싱글톤 테스트
+ * 개요: ReflectionTest 테스트
  * 
  * */
 
@@ -11,7 +11,8 @@ public class ReflectionTest {
 		
 		Worker worker = new Worker("정대만", Worker.POSITION_MANAGER);
 		
-		Class cls1 = worker.getClass();
+		Class<? extends Object> cls1 = worker.getClass();
+//		@SuppressWarnings("rawtypes")
 		Class cls2 = Worker.class; //Worker 에 대한 클래스정보의 인스턴스를 반환해줌
 		
 		Class cls3 = null;
