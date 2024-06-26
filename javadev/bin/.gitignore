@@ -21,12 +21,14 @@
 /oop15/
 /oop16/
 /oop19/
+/oop23/
 /sec01_abstractclass/
 /sec01_accessmodifier/
 /sec01_array/
 /sec01_basicSyntax/
 /sec01_dataType/
 /sec01_field/
+/sec01_fileandcharset/
 /sec01_finalmodifier/
 /sec01_inheritancepolymorphism/
 /sec01_instanceinnerclass/
@@ -39,6 +41,7 @@
 /sec01_typeofexception/
 /sec02_abstractmodifier/
 /sec02_exceptionhandlingsyntax/
+/sec02_fileinputoutputstream/
 /sec02_genericclass/
 /sec02_instanceinnerclass/
 /sec02_interface/
@@ -75,4 +78,3 @@
 /sec06_objectclass_EX02_ObjectMethod_equals/
 /sec06_objectclass_EX03_ObjectMethod_hashcode/
 /work/
-/oop23/
