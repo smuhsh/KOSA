@@ -23,7 +23,7 @@ public class ConsoleInputObject_3 {
 		String str1 = new String(byteArray1, 0, count1, Charset.forName("UTF-8"));
 		System.out.println(str1);
 		
-		//#3. n-byte 단위 읽기 (length 만큼 앞에서부터 읽어와서 byte[] offset위치부터 넣어라)
+		//#3. n-byte 단위 읽기 (length 만큼 앞에서부터 읽어와서 byte[] offset 위치부터 넣어라)
 		byte[] byteArray2 = new byte[9]; //offset+length
 		int offset = 3;
 		int length = 6;

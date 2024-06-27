@@ -53,6 +53,7 @@
 /sec02_string/
 /sec02_typecastin/
 /sec02_typecasting/
+/sec03_consoleinputoutput/
 /sec03_constructor/
 /sec03_genericmethod/
 /sec03_localinnerclass/
@@ -64,6 +65,7 @@
 /sec04_anonymousclass/
 /sec04_boundedtype/
 /sec04_controlkeyword/
+/sec04_filterinputoutputstream/
 /sec04_overlapmember/
 /sec04_stackandqueue/
 /sec04_synchronizedmethodandblock/
@@ -78,4 +80,3 @@
 /sec06_objectclass_EX02_ObjectMethod_equals/
 /sec06_objectclass_EX03_ObjectMethod_hashcode/
 /work/
-/sec03_consoleinputoutput/
