@@ -14,6 +14,7 @@ import java.io.OutputStream;
  * 작성자:황석현
  * 개요: 교재p812 ~ 814
  * 		Buffered(Input/Output)Stream 클래스를 활용한 입출력 속도 개선
+ * 
  */
 public class BufferedInputOutputStream {
 
